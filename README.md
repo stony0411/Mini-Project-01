@@ -1,4 +1,4 @@
-# Mini-Project-01
+## Mini-Project-01
 ResNets (or Residual Networks) are one of the most commonly used models for image classification
 tasks. In this project, you will design and train your own ResNet model for CIFAR-10 image
 classification. In particular, your goal will be to maximize accuracy on the CIFAR-10 benchmark
